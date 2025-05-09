@@ -1,0 +1,19 @@
+
+# Arquivos de cache e histórico do R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Dados sensíveis ou grandes
+*.tif
+*.pdf
+
+# Diretórios comuns que não precisam ir para o controle de versão
+__pycache__/
+*.log
+*.tmp
+.DS_Store
+
+# Arquivos do RStudio
+*.Rproj
